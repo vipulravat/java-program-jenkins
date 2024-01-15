@@ -9,6 +9,5 @@ public class student {
         System.out.println("Hii , I'm vipul");
         System.out.println("I'm looking forward to hearing from you");
         System.out.println("Thank you");
-
     }
 }
