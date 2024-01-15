@@ -7,5 +7,7 @@ public class student {
      public void sayHello() {
 
         System.out.println("Hii , I'm vipul");
-     }
+        System.out.println("I'm looking forward to hearing from you");
+
+    }
 }
