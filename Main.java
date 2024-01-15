@@ -9,7 +9,6 @@ public class Main {
         System.out.println("hello");
         System.out.println("Hope you this email find you well");
         student student=new student();
-        student.sayHello();
-
+        Student.sayHello();
     }
     }
